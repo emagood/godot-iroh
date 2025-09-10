@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cwx41v54045w0"
-path="res://.godot/imported/icon.svg-8221084d2b6e86e41cb4627d21eed2c9.ctex"
+uid="uid://c8vvft3adqahc"
+path="res://.godot/imported/logo.png-00d2fd85e3c206077043488394a0bcae.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/thot/iroh/examples/chat_app/icon.svg"
-dest_files=["res://.godot/imported/icon.svg-8221084d2b6e86e41cb4627d21eed2c9.ctex"]
+source_file="res://addons/thot/iroh/images/logo.png"
+dest_files=["res://.godot/imported/logo.png-00d2fd85e3c206077043488394a0bcae.ctex"]
 
 [params]
 
@@ -38,6 +38,3 @@ process/hdr_as_srgb=false
 process/hdr_clamp_exposure=false
 process/size_limit=0
 detect_3d/compress_to=1
-svg/scale=1.0
-editor/scale_with_editor_scale=false
-editor/convert_colors_with_editor_theme=false

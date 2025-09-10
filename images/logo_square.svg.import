@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cwx41v54045w0"
-path="res://.godot/imported/icon.svg-8221084d2b6e86e41cb4627d21eed2c9.ctex"
+uid="uid://ytyef2vasb7s"
+path="res://.godot/imported/logo_square.svg-379a545fc35fa05b9ecc07187515f12a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/thot/iroh/examples/chat_app/icon.svg"
-dest_files=["res://.godot/imported/icon.svg-8221084d2b6e86e41cb4627d21eed2c9.ctex"]
+source_file="res://addons/thot/iroh/images/logo_square.svg"
+dest_files=["res://.godot/imported/logo_square.svg-379a545fc35fa05b9ecc07187515f12a.ctex"]
 
 [params]
 
