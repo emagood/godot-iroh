@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cwx41v54045w0"
-path="res://.godot/imported/icon.svg-8221084d2b6e86e41cb4627d21eed2c9.ctex"
+path="res://.godot/imported/icon.svg-e3a8c411d837fd8fedacff460a29f7bd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/thot/iroh/examples/chat_app/icon.svg"
-dest_files=["res://.godot/imported/icon.svg-8221084d2b6e86e41cb4627d21eed2c9.ctex"]
+source_file="res://examples/chat_app/icon.svg"
+dest_files=["res://.godot/imported/icon.svg-e3a8c411d837fd8fedacff460a29f7bd.ctex"]
 
 [params]
 

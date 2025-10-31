@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ytyef2vasb7s"
-path="res://.godot/imported/logo_square.svg-379a545fc35fa05b9ecc07187515f12a.ctex"
+path="res://.godot/imported/logo_square.svg-5260c3ca592c6ad0005c1f150004fc5a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/thot/iroh/images/logo_square.svg"
-dest_files=["res://.godot/imported/logo_square.svg-379a545fc35fa05b9ecc07187515f12a.ctex"]
+source_file="res://images/logo_square.svg"
+dest_files=["res://.godot/imported/logo_square.svg-5260c3ca592c6ad0005c1f150004fc5a.ctex"]
 
 [params]
 
